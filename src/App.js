@@ -1,5 +1,4 @@
 import { BrowserRouter as Router, Routes, Route, Link, NavLink } from 'react-router-dom';
-import { GiChurch } from 'react-icons/gi';
 import { 
   FaBars, FaTimes, FaFacebookF, FaTiktok, FaYoutube, 
   FaMapMarkerAlt, FaPhoneAlt, FaEnvelope, FaPrayingHands, 
